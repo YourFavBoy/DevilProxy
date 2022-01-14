@@ -1,5 +1,6 @@
 # DevilProxy
-Internal Growtopia Proxy by Devil#0141
+Internal Growtopia Proxy by Devil
+Have Problem? Dm me at Discord: Devil#0141
 
 # Change Logs:
 - Fixed Port
