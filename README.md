@@ -8,3 +8,4 @@ Have Problem? Dm me at Discord: DEVIL#0141
 - Added Visual Spin Wheel and Dice
 - Wrench Pull
 - Pull/Kick/Ban all
+- Fast Drop/ Fast Trash
